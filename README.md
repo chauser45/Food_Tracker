@@ -1,16 +1,5 @@
-# wasteagram
+This program implements the requirements shown in the included pdf. The app consists of an interface where users are able to upload image and data posts to cloud storage/ database 
+using Google firestore/firebase. Previous posts populate a list view, and users can navigate to a detailed view of each entry as well. Written using the Flutter SDK and the Dart
+language. Tested on an Android emulator using Android Studio, but this can compile for OS as well with some platform specific permissions changes.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Included is an .mp4 file showcasing the application in use.
